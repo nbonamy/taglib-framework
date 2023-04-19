@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
   s.author           = { 'Nicolas Bonamy' => 'nbonamy@gmail.com' }
   s.source           = { :git => 'https://github.com/nbonamy/taglib-framework.git', :tag => '1.13' }
   s.module_name      = 'taglib'
-  s.vendored_frameworks = 'tag.framework'
+  s.vendored_frameworks = 'taglib.framework'
   s.platform = :osx, '11.0'
 end
