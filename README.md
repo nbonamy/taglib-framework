@@ -1,6 +1,6 @@
 # taglib-framework
 
-taglib universal binaries (arm64, x86_64)
+taglib universal binaries for macOS (arm64, x86_64)
 
 ## Compile
 
